@@ -1,0 +1,17 @@
+{
+  "name": "node-roy-test",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jparticles": "^3.1.0",
+    "querystringify": "^2.2.0",
+    "roll": "^1.3.1",
+    "translate": "^1.2.3"
+  }
+}
